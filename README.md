@@ -614,6 +614,45 @@ lobby, or scoreboard to open a menu with five options:
 
 ------------------------------------------------------------------------
 
-*Converted from the Virtual Radio Direction Finding User Manual by Rob
-(2E0RPT). This README preserves the manual's instructions and
-terminology in GitHub-compatible Markdown.*
+***Legal Notice***
+
+**FORMAL STATEMENT OF CLARIFICATION AND POSITION ON ANIMAL WELFARE**
+
+**Subject: Amateur Radio Direction Finding (ARDF), Virtual Radio Direction Finding (VRDF), and the Distinction from Real-World Fox Hunting**
+
+For the avoidance of doubt, **Amateur Radio Direction Finding (ARDF) and the Virtual Radio Direction Finding (VRDF) game are entirely separate from, and in no way associated with, the pursuit, harassment, capture, or killing of real-life foxes or any other animals.**
+
+ARDF is a recognised amateur radio activity in which participants use radio receivers and directional-finding techniques to locate hidden radio transmitters. VRDF recreates aspects of this technical and recreational activity within a virtual gaming environment. In both cases, the term *fox* refers to a radio transmitter or a virtual objective, not a living animal.
+
+Any similarities in terminology are purely historical or contextual and must not be interpreted as an endorsement of, participation in, or association with real-world animal hunting. Neither ARDF nor VRDF should be confused with traditional fox hunting, and neither activity requires the involvement of live animals.
+
+### Our Position on Real-World Fox Hunting
+
+We wish to make our position on the pursuit of real foxes equally clear.
+
+We strongly oppose the unnecessary suffering of animals and express our displeasure at activities that involve chasing, exhausting, injuring, or killing foxes for entertainment or sport. We believe wildlife should be treated responsibly and that cruelty to animals should never be excused as recreation.
+
+In England and Wales, the Hunting Act 2004 makes hunting wild mammals with dogs an offence, subject to specific statutory exemptions. Traditional fox hunting with a pack of dogs is illegal under this legislation. Activities that breach the law should be reported to the appropriate authorities and dealt with accordingly. We support compliance with animal welfare legislation and the proper enforcement of wildlife protection laws.
+
+### Recognising the Challenges Foxes Can Present
+
+We also recognise that foxes can present genuine and sometimes serious challenges for people living and working in both urban and rural environments.
+
+In urban communities, foxes may scatter rubbish, damage property, enter gardens, prey on domestic poultry, or cause concern among residents. In agricultural areas, foxes may threaten vulnerable livestock, particularly young animals and poultry, and may create additional difficulties for farmers who are already managing demanding working conditions.
+
+These concerns should not be dismissed. Farmers and urban residents have legitimate interests in protecting their property, animals, livelihoods, and local environments.
+
+However, acknowledging these challenges does not justify cruelty or the use of illegal hunting practices. Responsible fox management should be proportionate to the problem, consistent with applicable law, and designed to minimise unnecessary suffering. Where intervention is necessary, lawful and humane approaches should be considered.
+
+**There is a clear distinction between responsibly managing wildlife-related problems and pursuing animals for sport or entertainment.** Recognising the former does not require supporting the latter.
+
+### Final Clarification
+
+ARDF and VRDF are activities centred on radio technology, directional finding, navigation, problem-solving, and recreation. Their use of the word *fox* does not connect them to real-world fox hunting.
+
+We therefore reject any suggestion that participation in ARDF or VRDF implies support for, involvement in, or approval of the hunting of living foxes.
+
+We advocate respect for the law, responsible wildlife management, and the prevention of unnecessary animal suffering, while recognising the practical challenges that foxes can present to farmers and urban communities.
+
+**The distinction is simple: finding a radio transmitter, whether in a real-world ARDF event or a virtual VRDF game, is not the hunting of a living animal. The two activities are fundamentally different in purpose, method, and ethical implications.**
+
