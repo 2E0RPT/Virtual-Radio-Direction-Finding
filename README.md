@@ -12,8 +12,8 @@ down the signal.
 Two kinds of game are played on a large map of hills, forest and
 villages:
 
--   **Radio Egg Hunt:** Find a hidden beacon; the fastest player wins.
--   **Radio Fox Hunt:** Hounds track down hiding foxes.
+-   **Radio Egg Hunt:** Find a hidden beacon; the fastest player wins. Virtual SSB tracking.
+-   **Radio Fox Hunt:** Hounds track down hiding foxes. Virtual FM tracking.
 
 ## Table of Contents
 
