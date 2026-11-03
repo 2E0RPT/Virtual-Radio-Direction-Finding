@@ -1,6 +1,10 @@
 # Virtual Radio Direction Finding
+# Creating an account is free and only requires:
+**A player name (or callsign) and a password.**
+**Click [Log in] then [Create account] Thats all.**
 
-**User Manual**\
+
+# User Manual
 By Rob (2E0RPT)
 
 Virtual Radio Direction Finding is a multiplayer first-person game about
